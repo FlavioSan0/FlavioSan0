@@ -39,4 +39,4 @@ Portfólio profissional para apresentação de projetos, cases, tecnologias e so
 
 - Portfólio: https://san-node.vercel.app/
 - Instagram: @san_node
-- LinkedIn: www.linkedin.com/in/flavio-lucas-5676a2193
+- LinkedIn: www.linkedin.com/in/flavio-lucas-santos-de-oliveira-5676a2193
