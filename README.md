@@ -1,31 +1,42 @@
-# Olá, eu sou Flávio Santos 👋
+# Olá, eu sou Flávio Lucas 👋
 
-Sou estudante e desenvolvedor em formação, focado em criar projetos práticos com interface moderna, organização de dados e automações.
+Desenvolvedor Full Stack em formação avançada, com experiência prática na criação de sistemas web, landing pages, automações, interfaces modernas e soluções digitais para pequenos negócios.
 
-## Atualmente trabalhando em:
-- Sistema de controle de estoque para oficina mecânica
-- Sites e painéis com foco em usabilidade
-- Automações com Google Sheets, Forms e Apps Script
+Atualmente atuo com projetos próprios e soluções sob demanda pela **San_Node**, desenvolvendo aplicações com foco em usabilidade, organização de dados, automação de processos e identidade visual profissional.
 
-## Tecnologias que estou utilizando
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Supabase
-- Google Apps Script
+## 🚀 Principais focos
 
-## Projetos em destaque
-### Controle de Estoque Mecânica
-Sistema para gerenciamento de estoque, fornecedores e movimentações em oficina mecânica.
+- Desenvolvimento de sistemas web e SaaS
+- Landing pages comerciais e institucionais
+- Automações com Google Apps Script e integrações
+- Interfaces modernas com React, Next.js e Tailwind
+- Banco de dados, autenticação e dashboards administrativos
+- IA aplicada ao desenvolvimento, produtividade e automações
 
-### Site Casamento
-Projeto web com foco em confirmação de presença, painel administrativo e organização visual.
+## 🛠️ Tecnologias
 
-## Objetivo atual
-Evoluir na construção de sistemas completos, unindo front-end, back-end, banco de dados e automações.
+**Front-end:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+**Back-end e banco:** Supabase, Prisma, Neon, Express  
+**Automação:** Google Apps Script, APIs, integrações e fluxos automatizados  
+**Deploy e versionamento:** Vercel, GitHub, GitLab  
+**Design:** Photoshop, Illustrator, identidade visual e UI clean
 
-## Contato
-- GitHub: [github.com/FlavioSan0](https://github.com/FlavioSan0)
+## 📌 Projetos em destaque
+
+### MesaFlow
+Sistema para pequenos negócios de alimentação, com cardápio digital, pedidos, balcão, delivery, mesas, permissões por função e gestão operacional.
+
+### AgendaNode
+Sistema de agendamento com fluxo público de reservas, painel administrativo, profissionais, serviços, horários e identidade visual própria.
+
+### San_Node
+Marca pessoal/profissional voltada para criação de sites, sistemas, automações, landing pages e soluções digitais sob demanda.
+
+### Portfólio Pessoal
+Portfólio profissional para apresentação de projetos, cases, tecnologias e soluções desenvolvidas.
+
+## 📫 Contato
+
+- Portfólio: https://san-node.vercel.app/
+- Instagram: @san_node
+- LinkedIn: www.linkedin.com/in/flavio-lucas-5676a2193
